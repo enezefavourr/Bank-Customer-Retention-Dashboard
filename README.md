@@ -20,7 +20,6 @@ This Power BI dashboard analyzes customer churn for a retail bank across multipl
 - Regional and demographic segmentation of churn  
 - KPI cards for quick business overview  
 - Interactive filters for geography and activity status  
-  📄 [View the Dashboard PDF](./Bank_Customer_Retention_Dashboard_–_Churn_Insights.pdf)
 
 
 ## Author
