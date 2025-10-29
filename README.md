@@ -1,8 +1,11 @@
 # Bank-Customer-Retention-Dashboard – Churn Insights
 Identify customer segments with high churn and propose actionable insights. 
+![Dashboard Preview](./dashboard_preview.png)
 
 
 This Power BI dashboard analyzes customer churn for a retail bank across multiple regions. It helps identify patterns, high-risk customer groups, and key factors contributing to churn.
+
+**Dataset used:** Simulated customer churn data for a European retail bank (public sample).
 
 ## Key Insights
 - **Overall churn rate:** 20.37%
@@ -19,6 +22,7 @@ This Power BI dashboard analyzes customer churn for a retail bank across multipl
 - Regional and demographic segmentation of churn  
 - KPI cards for quick business overview  
 - Interactive filters for geography and activity status  
+  [View the Dashboard PDF](./Bank_Customer_Retention_Dashboard.pdf)
 
 ## Author
 **Favour Odiyo**  
